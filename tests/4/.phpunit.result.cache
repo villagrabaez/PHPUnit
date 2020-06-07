@@ -1,0 +1,1 @@
+C:30:"PHPUnit\Runner\TestResultCache":206:{a:2:{s:7:"defects";a:2:{s:21:"SlugTest::test_render";i:4;s:34:"SlugTest::test_render_sin_espacios";i:4;}s:5:"times";a:2:{s:21:"SlugTest::test_render";d:0.004;s:34:"SlugTest::test_render_sin_espacios";d:0;}}}

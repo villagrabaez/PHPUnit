@@ -1,0 +1,15 @@
+{
+    "name": "villagrabaez/phpunit",
+    "description": "PHPUnit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bernardino Villagra",
+            "email": "bernardinovillagra@hotmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "8"
+    }
+}
